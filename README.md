@@ -1,2 +1,2 @@
 # hola-mundo
- mi primer repo
+ mi primer repositorio
