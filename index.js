@@ -1,1 +1,2 @@
-alert("Hola usuario.");
+let NombreUsuario=prompt ("Ingrese su nombre");
+alert(`Hola ${NombreUsuario}!`);
